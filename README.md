@@ -1,7 +1,7 @@
-# Data-pROJECT - Metadata
+# Beverage Sales Dataset
 
 ## Overview
-This repository contains an Excel file that serves as a comprehensive dataset for inventory, purchases, sales, and related financial details. The data is structured into multiple sheets, each offering specific insights into the dataset's various aspects. This README provides a detailed description of each sheet and its contents.
+This repository contains a synthesized dataset derived from *Heritage Spirits* retail operations. The data provides insights into inventory management, purchases, and sales activities, structured into multiple sheets for ease of analysis and exploration.
 
 ---
 
